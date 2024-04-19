@@ -6,7 +6,6 @@ const Account = () => {
     <>
         <div className='beadCrumb'>
             <div>Account</div>
-            <span> &gt; </span>
             <Outlet/>
         </div>
     </>
